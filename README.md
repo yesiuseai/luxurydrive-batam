@@ -68,8 +68,8 @@ Karena folder `vendor` tidak disertakan dalam repositori ini, silakan ikuti lang
 
 ## 👤 Author
 
-* **Nama:** [yesiuseai]
-* **Status:** Mahasiswa Universitas (Batam)
+* **Nama:** [M.Abiel Adiguna Putra 2422011]
+* **Status:** Mahasiswa Institut Teknologi Batam
 * **Project:** UTS Pemrograman Web
 
 ---
